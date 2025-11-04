@@ -424,7 +424,3 @@ usermod -aG sudo username
 ```bash
 ./prox.sh create 200 210 "snapshot" 2>&1 | tee operation.log
 ```
-
-## Лицензия
-
-Скрипт предоставляется "как есть" без каких-либо гарантий.
